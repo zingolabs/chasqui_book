@@ -1,18 +1,23 @@
-# Slide 1
+# Slide One: Problem Statement
 
-  Problem Statement: The environment is designed for miscommunication.
+## The environment is designed for miscommunication.
 
    * We think we're thinkers, but we're feelers.  We act on emotion.  We pay attention to that which is outrageous, and the costs of those payments are mounting into insurmountable emotional debt.
 
    * We are outraged because it's attention grabbing, maybe more attention grabbing than anything else.
+##
 
-  Problem Scale:
+# Slide Two: Problem Scale
+
+## Vast
 
    * this isn't a cryptocurrency scoped issue
    * this is a problem that's on the scale of environmental concerns, war, pandemics.   It is, in a real sense "existential" for our species. 
 
   That's as big a problem as there is... but there's an exciting corollary..  the bigger the problem..  the more significant the solution!
+##
 
+# Slide ???
 
 This is diversification of utility for Zcash.   Cryptocurrency markets are volatile, and are somewhat decoupled from messaging markets.
 
