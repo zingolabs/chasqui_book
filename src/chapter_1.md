@@ -1,6 +1,6 @@
 # Slide One: Problem Statement
 
-## The environment is designed for miscommunication.
+## Our environment is designed for miscommunication.
 
    * We think we're thinkers, but we're feelers.  We act on emotion.  We pay attention to that which is outrageous, and the costs of those payments are mounting into insurmountable emotional debt.
 
@@ -40,7 +40,7 @@ Making data private prevents [A].
 ## Vast
 
    * this isn't a cryptocurrency scoped issue
-   * this is a problem that's on the scale of environmental concerns, war, pandemics.   It is, in a real sense "existential" for our species. 
+   * this is a problem that's on the scale of environmental concerns, war, pandemics, genocide.   It is, in a real sense "existential" for our species. 
 
   That's as big a problem as there is... but there's an exciting corollary..  the bigger the problem..  the more significant the solution!
 ##
