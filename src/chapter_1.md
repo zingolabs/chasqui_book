@@ -35,7 +35,7 @@ Argument:
 Making data private prevents [A].
 ##
 
-# Slide Two: Problem Scale
+# Slide Three: Problem Scale
 
 ## Vast
 
@@ -45,7 +45,9 @@ Making data private prevents [A].
   That's as big a problem as there is... but there's an exciting corollary..  the bigger the problem..  the more significant the solution!
 ##
 
-# Slide ???
+# Slide Four:  What solutions already exist?
+
+![Comparison of Solutions](../assets/first_comparison_table.png)
 
 This is diversification of utility for Zcash.   Cryptocurrency markets are volatile, and are somewhat decoupled from messaging markets.
 
