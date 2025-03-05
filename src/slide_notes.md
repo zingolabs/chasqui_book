@@ -25,11 +25,21 @@
 
   Motivation
 
-  * Explain our motivation for 
+  * Explain our motivation
+
+     * We think tools should serve the user.
+     * We think tools should **only** server the user. 
 
 # Slide Three, Context:
 
   Table comparing some modern chat options
+
+    * This table is detail rich, and mainly provided for back reference.
+    * We want people to take away that there are multiple options available with different tradeoffs with respect to the big three properties:
+
+       (1) decentralized economics
+       (2) encryption of message content
+       (3) encryption of network/metadata
 
 # Slide Four, Context:
 
